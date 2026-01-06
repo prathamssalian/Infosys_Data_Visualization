@@ -50,12 +50,15 @@ Ensures 100% data accuracy
 📰 Data journalism
 
 👥 Team C
+
 Ashish Ransing – Team Leader
 N. Manjushri
 PD. Varshita
 Pratham S. Salian
 Deepika Kanukanthi
+
 📌 Disclaimer
+
 This project is intended strictly for educational and analytical purposes.
 All election data used is publicly available and processed responsibly.
 
