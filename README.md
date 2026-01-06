@@ -19,8 +19,6 @@ The platform supports:
 
 ## 🖼️ Dashboard Gallery
 
-> *(Add dashboard images inside an `images/` folder and update filenames accordingly)*
-
 ### 1️⃣ National Command Center
 <p align="center">
   <img src="images/national_command_center.png" width="700">
